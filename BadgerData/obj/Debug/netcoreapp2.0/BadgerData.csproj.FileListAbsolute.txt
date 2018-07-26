@@ -1,0 +1,12 @@
+C:\Users\rich.DESIGNSYNTHESIS\Source\Repos\BadgerData\BadgerData\bin\Debug\netcoreapp2.0\BadgerData.dll.config
+C:\Users\rich.DESIGNSYNTHESIS\Source\Repos\BadgerData\BadgerData\bin\Debug\netcoreapp2.0\BadgerData.deps.json
+C:\Users\rich.DESIGNSYNTHESIS\Source\Repos\BadgerData\BadgerData\bin\Debug\netcoreapp2.0\BadgerData.dll
+C:\Users\rich.DESIGNSYNTHESIS\Source\Repos\BadgerData\BadgerData\bin\Debug\netcoreapp2.0\BadgerData.pdb
+C:\Users\rich.DESIGNSYNTHESIS\Source\Repos\BadgerData\BadgerData\obj\Debug\netcoreapp2.0\BadgerData.csproj.CoreCompileInputs.cache
+C:\Users\rich.DESIGNSYNTHESIS\Source\Repos\BadgerData\BadgerData\obj\Debug\netcoreapp2.0\BadgerData.AssemblyInfoInputs.cache
+C:\Users\rich.DESIGNSYNTHESIS\Source\Repos\BadgerData\BadgerData\obj\Debug\netcoreapp2.0\BadgerData.AssemblyInfo.cs
+C:\Users\rich.DESIGNSYNTHESIS\Source\Repos\BadgerData\BadgerData\obj\Debug\netcoreapp2.0\BadgerData.dll
+C:\Users\rich.DESIGNSYNTHESIS\Source\Repos\BadgerData\BadgerData\obj\Debug\netcoreapp2.0\BadgerData.pdb
+C:\Users\rich.DESIGNSYNTHESIS\Source\Repos\BadgerData\BadgerData\bin\Debug\netcoreapp2.0\BadgerData.runtimeconfig.json
+C:\Users\rich.DESIGNSYNTHESIS\Source\Repos\BadgerData\BadgerData\bin\Debug\netcoreapp2.0\BadgerData.runtimeconfig.dev.json
+C:\Users\rich.DESIGNSYNTHESIS\Source\Repos\BadgerData\BadgerData\obj\Debug\netcoreapp2.0\BadgerData.csprojAssemblyReference.cache

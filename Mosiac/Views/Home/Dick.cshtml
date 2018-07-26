@@ -1,0 +1,17 @@
+﻿
+@{
+    var tasks = new List<string>
+    { "Buy milk","Buy eggs","Buy bread"};
+
+}
+
+<h3>Task to complete</h3>
+<ul>
+    @for(var i=0;i< tasks.Count;i++)
+    {
+        var task = tasks[i];
+        <li>@i  = @task</li>
+
+    }
+
+</ul>

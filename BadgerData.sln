@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2020
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BadgerData", "BadgerData\BadgerData.csproj", "{36B8F8F4-1F65-413C-B2AF-0A792F911DAD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BadgerDataTest", "BadgerDataTest\BadgerDataTest.csproj", "{78E8B015-A195-4949-9C43-11719F1213DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mosiac", "Mosiac\Mosiac.csproj", "{B6AA0B01-1E86-4D33-94C6-2E2215D58FB3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36B8F8F4-1F65-413C-B2AF-0A792F911DAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36B8F8F4-1F65-413C-B2AF-0A792F911DAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36B8F8F4-1F65-413C-B2AF-0A792F911DAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36B8F8F4-1F65-413C-B2AF-0A792F911DAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78E8B015-A195-4949-9C43-11719F1213DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78E8B015-A195-4949-9C43-11719F1213DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78E8B015-A195-4949-9C43-11719F1213DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78E8B015-A195-4949-9C43-11719F1213DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6AA0B01-1E86-4D33-94C6-2E2215D58FB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6AA0B01-1E86-4D33-94C6-2E2215D58FB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6AA0B01-1E86-4D33-94C6-2E2215D58FB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6AA0B01-1E86-4D33-94C6-2E2215D58FB3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B23A4DC-1858-46D0-88C3-8A75B98D3568}
+	EndGlobalSection
+EndGlobal

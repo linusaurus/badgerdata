@@ -1,0 +1,4 @@
+C:\Users\rich.DESIGNSYNTHESIS\Source\Repos\BadgerData\Mosiac\obj\Release\netcoreapp2.0\Mosiac.csprojAssemblyReference.cache
+C:\Users\rich.DESIGNSYNTHESIS\Source\Repos\BadgerData\Mosiac\obj\Release\netcoreapp2.0\Mosiac.csproj.CoreCompileInputs.cache
+C:\Users\rich.DESIGNSYNTHESIS\Source\Repos\BadgerData\Mosiac\obj\Release\netcoreapp2.0\Mosiac.AssemblyInfoInputs.cache
+C:\Users\rich.DESIGNSYNTHESIS\Source\Repos\BadgerData\Mosiac\obj\Release\netcoreapp2.0\Mosiac.AssemblyInfo.cs

@@ -1,0 +1,11 @@
+C:\Users\rich.DESIGNSYNTHESIS\Source\Repos\BadgerData\Mosiac\bin\Debug\netcoreapp2.0\Mosiac.deps.json
+C:\Users\rich.DESIGNSYNTHESIS\Source\Repos\BadgerData\Mosiac\bin\Debug\netcoreapp2.0\Mosiac.runtimeconfig.json
+C:\Users\rich.DESIGNSYNTHESIS\Source\Repos\BadgerData\Mosiac\bin\Debug\netcoreapp2.0\Mosiac.runtimeconfig.dev.json
+C:\Users\rich.DESIGNSYNTHESIS\Source\Repos\BadgerData\Mosiac\bin\Debug\netcoreapp2.0\Mosiac.dll
+C:\Users\rich.DESIGNSYNTHESIS\Source\Repos\BadgerData\Mosiac\bin\Debug\netcoreapp2.0\Mosiac.pdb
+C:\Users\rich.DESIGNSYNTHESIS\Source\Repos\BadgerData\Mosiac\obj\Debug\netcoreapp2.0\Mosiac.csprojAssemblyReference.cache
+C:\Users\rich.DESIGNSYNTHESIS\Source\Repos\BadgerData\Mosiac\obj\Debug\netcoreapp2.0\Mosiac.csproj.CoreCompileInputs.cache
+C:\Users\rich.DESIGNSYNTHESIS\Source\Repos\BadgerData\Mosiac\obj\Debug\netcoreapp2.0\Mosiac.AssemblyInfoInputs.cache
+C:\Users\rich.DESIGNSYNTHESIS\Source\Repos\BadgerData\Mosiac\obj\Debug\netcoreapp2.0\Mosiac.AssemblyInfo.cs
+C:\Users\rich.DESIGNSYNTHESIS\Source\Repos\BadgerData\Mosiac\obj\Debug\netcoreapp2.0\Mosiac.dll
+C:\Users\rich.DESIGNSYNTHESIS\Source\Repos\BadgerData\Mosiac\obj\Debug\netcoreapp2.0\Mosiac.pdb
